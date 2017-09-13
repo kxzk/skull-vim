@@ -22,4 +22,6 @@
 
 - Monochrome-ish theme
 - Green comments
-- 3 main wrinkles: Grey text, bolded grey text, and white
+- 3 main wrinkles: Grey text, bolded grey text, and white  
+
+![skull-theme](https://i.imgur.com/FGYcX8t.png)
