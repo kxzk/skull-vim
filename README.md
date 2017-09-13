@@ -24,4 +24,21 @@
 - Green comments
 - 3 main wrinkles: Grey text, bolded grey text, and white  
 
-![skull-theme](https://i.imgur.com/FGYcX8t.png)
+![skull-theme](https://i.imgur.com/FGYcX8t.png)  
+
+## Installation
+
+Install manually or use a package manager:
+
+```viml
+" vim-plug
+Plug 'beigebrucewayne/skull-vim'
+" NeoBundle
+NeoBundle 'beigebrucewayne/skull-vim'
+" Vundle
+Plugin 'beigebrucewayne/skull-vim'
+```
+
+```viml
+colorscheme skull
+```. 
