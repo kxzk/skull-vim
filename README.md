@@ -18,5 +18,8 @@
                               :
 ```  
 
-# Skull  
----
+# SKULL  
+
+- Monochrome-ish theme
+- Green comments
+- 3 main wrinkles: Grey text, bolded grey text, and white
