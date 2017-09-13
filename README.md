@@ -41,4 +41,4 @@ Plugin 'beigebrucewayne/skull-vim'
 
 ```viml
 colorscheme skull
-```. 
+```
