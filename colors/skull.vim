@@ -56,7 +56,7 @@ hi DiffText        guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=bl
 hi Directory       guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Error           guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Folded          guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
-hi Function        guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
+hi Function        guifg=#ece1bd    guibg=#282828    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 hi Identifier      guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Ignore          guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Label           guifg=#A0A0A0    guibg=#282828    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
