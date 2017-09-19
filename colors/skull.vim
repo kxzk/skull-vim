@@ -37,11 +37,11 @@ hi Visual          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=bl
 hi VisualNOS       guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
 
 "" white fg w/black bg
-hi Constant        guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi DiffAdd         guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi Number          guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=ITALIC
-hi Pmenu           guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi Constant        guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi DiffAdd         guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi Number          guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=ITALIC
+hi Pmenu           guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
+hi String          guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/white bg
 
