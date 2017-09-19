@@ -60,7 +60,7 @@ hi Function        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi Identifier      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Ignore          guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Label           guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
-hi LineNr          guifg=#7a7a7a    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
+hi LineNr          guifg=#626262    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi MatchParen      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi ModeMsg         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi MoreMsg         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
