@@ -37,11 +37,11 @@ hi Visual          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=bl
 hi VisualNOS       guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
 
 "" white fg w/black bg
-hi Constant        guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi DiffAdd         guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi Number          guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=ITALIC
-hi Pmenu           guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#fdf6e3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi Constant        guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi DiffAdd         guifg=#A0A0A0   guibg=#222222    ctermfg=white    ctermbg=black     gui=NONE         cterm=NONE
+hi Number          guifg=#A0A0A0   guibg=#222222    ctermfg=white    ctermbg=black     gui=BOLD         cterm=BOLD
+hi Pmenu           guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
+hi String          guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=UNDERLINE    cterm=UNDERLINE
 
 "" grey fg w/white bg
 
