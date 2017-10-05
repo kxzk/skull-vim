@@ -38,10 +38,10 @@ hi VisualNOS       guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=bl
 
 "" white fg w/black bg
 hi Constant        guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
-hi DiffAdd         guifg=#A0A0A0   guibg=#222222    ctermfg=white    ctermbg=black     gui=NONE         cterm=NONE
-hi Number          guifg=#A0A0A0   guibg=#222222    ctermfg=white    ctermbg=black     gui=BOLD         cterm=BOLD
+hi DiffAdd         guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi Number          guifg=#707070    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
 hi Pmenu           guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=UNDERLINE    cterm=UNDERLINE
+hi String          guifg=#808080    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/white bg
 
