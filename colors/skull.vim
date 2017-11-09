@@ -47,6 +47,7 @@ hi String          guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=bl
 
 hi CursorColumn    guifg=#FFFFFF    guibg=#2f2f2f    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi CursorLine      guifg=#FFFFFF    guibg=#2f2f2f    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi CursorLineNr    guifg=#7eae81    guibg=#2f2f2f    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/black bg
 hi Comment         guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
