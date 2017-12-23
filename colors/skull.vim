@@ -76,7 +76,7 @@ hi SpecialKey      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi Statement       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 " hi StatusLine      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 
-hi StatusLine      guifg=#FFFFFF    guibg=#7eae81    ctermfg=grey     ctermbg=black    gui=NONE       cterm=NONE
+hi StatusLine      guifg=#7eae81    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE       cterm=NONE
 
 hi StatusLineNC    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi StorageClass    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
