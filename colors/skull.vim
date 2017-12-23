@@ -74,7 +74,10 @@ hi PreProc         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi Special         guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
 hi SpecialKey      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi Statement       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
-hi StatusLine      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
+" hi StatusLine      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
+
+hi StatusLine      guifg=#FFFFFF    guibg=#7eae81    ctermfg=grey     ctermbg=black    gui=NONE       cterm=NONE
+
 hi StatusLineNC    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi StorageClass    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 hi Structure       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
