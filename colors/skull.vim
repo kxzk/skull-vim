@@ -32,9 +32,9 @@ set background=dark
 "" black fg w/white bg
 hi Cursor          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi IncSearch       guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
-hi Search          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
-hi Visual          guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
-hi VisualNOS       guifg=#FFFFFF    guibg=#000000    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
+hi Search          guifg=#268bd2    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
+hi Visual          guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
+hi VisualNOS       guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=ITALIC       cterm=NONE
 
 "" white fg w/black bg
 hi Constant        guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
