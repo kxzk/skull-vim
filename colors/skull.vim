@@ -46,6 +46,7 @@ hi String          guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=bl
 "" grey fg w/white bg
 
 hi CursorColumn    guifg=#FFFFFF    guibg=#2f2f2f    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi ColorColumn     guifg=#000000    guibg=#000000    ctermfg=black    ctermbg=black
 hi CursorLine      guifg=#FFFFFF    guibg=#2f2f2f    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi CursorLineNr    guifg=#7eae81    guibg=#2f2f2f    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
@@ -71,12 +72,14 @@ hi PmenuSbar       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi PmenuSel        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi PmenuThumb      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi PreProc         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
+
 hi Special         guifg=#505050    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
+hi Operator        guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=NONE
+
 hi SpecialKey      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi Statement       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
-" hi StatusLine      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 
-hi StatusLine      guifg=#000000    guibg=#7eae81    ctermfg=grey     ctermbg=black    gui=NONE       cterm=NONE
+hi StatusLine      guifg=#000000    guibg=#7eae81    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 
 hi StatusLineNC    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
 hi StorageClass    guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
