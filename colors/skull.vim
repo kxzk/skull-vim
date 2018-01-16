@@ -73,7 +73,7 @@ hi PmenuSel        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi PmenuThumb      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi PreProc         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 
-hi Special         guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
+hi Special         guifg=#414141    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
 hi Operator        guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=NONE
 
 hi SpecialKey      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
