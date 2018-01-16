@@ -41,7 +41,7 @@ hi Constant        guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=bl
 hi DiffAdd         guifg=#A0A0A0    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi Number          guifg=#707070    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
 hi Pmenu           guifg=#7eae81    guibg=#2c2c2c    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#FFFFFF    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi String          guifg=#d3d3d3    guibg=#222222    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
 "" grey fg w/white bg
 
