@@ -58,11 +58,11 @@ hi DiffText        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi Directory       guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Error           guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Folded          guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
-hi Function        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
+hi Function        guifg=#6f6f6f    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 hi Identifier      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Ignore          guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Label           guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
-hi LineNr          guifg=#626262    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
+hi LineNr          guifg=#393939    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi MatchParen      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi ModeMsg         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi MoreMsg         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
@@ -73,7 +73,7 @@ hi PmenuSel        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi PmenuThumb      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi PreProc         guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 
-hi Special         guifg=#505050    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
+hi Special         guifg=#7eae81    guibg=#222222    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
 hi Operator        guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=NONE
 
 hi SpecialKey      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=NONE
