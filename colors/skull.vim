@@ -101,4 +101,6 @@ hi htmlTagN        guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=bl
 hi rubySymbol      guifg=#A0A0A0    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi NonText         guifg=#393939    guibg=#222222    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 
+hi Directory       guifg=#7eae81    guibg=#222222    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=NONE
+
 hi clear SignColumn
