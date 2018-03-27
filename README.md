@@ -21,7 +21,7 @@
 # SKULL  
 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-![skull-theme](https://i.imgur.com/X0ZqDXF.png)  
+![skull-theme](https://i.imgur.com/78kpS2D.png)  
 
 ## Installation
 
