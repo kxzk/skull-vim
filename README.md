@@ -29,11 +29,11 @@ Install manually or use a package manager:
 
 ```viml
 " vim-plug
-Plug 'beigebrucewayne/skull-vim'
+Plug 'kadekillary/skull-vim'
 " NeoBundle
-NeoBundle 'beigebrucewayne/skull-vim'
+NeoBundle 'kadekillary/skull-vim'
 " Vundle
-Plugin 'beigebrucewayne/skull-vim'
+Plugin 'kadekillary/skull-vim'
 ```
 
 ```viml
